@@ -56,7 +56,7 @@ revcontent.com, 122063, DIRECT
 #agencyorquidea
 
 
-
+ 
 ### ForeShop START ###
 google.com, pub-1444749628606253, DIRECT, f08c47fec0942fa0
 google.com, pub-7011958834410891, DIRECT, f08c47fec0942fa0
@@ -913,8 +913,7 @@ improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
 freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain
 yahoo.com, 59052, RESELLER # Premium Video Demand
 ###Outbrain End###
-
-### ForeShop End ###
+### ForeShop End###
 
 
 #Ad.Plus
