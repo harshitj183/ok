@@ -1660,4 +1660,9 @@ improvedigital.com, 1738, RESELLER
 smartadserver.com, 3056, DIRECT
 #the monetizer
 
+
+
 google.com, pub-2369687595460896, DIRECT, f08c47fec0942fa0
+google.com, pub-1234567891234567, DIRECT, f12c34fec5672fa0
+Pubmatic.com, 12345, DIRECT, 1d23456b789f1ace
+indexexchange.com, 000000, DIRECT
