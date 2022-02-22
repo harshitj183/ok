@@ -27,19 +27,6 @@ google.com, pub-9422585382673566, DIRECT, f08c47fec0942fa0
 google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
 
 
-#Adsproper open Bidding
-# PurpleAds ads.txt lines
-google.com, pub-9546179864759144, DIRECT, f08c47fec0942fa0
-google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
-google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
-google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
-appnexus.com, 9684, DIRECT, f5ab79cb980f11d1
-openx.com, 541073624, RESELLER, 6a698e2ec38604c6
-openx.com, 541180797, RESELLER, 6a698e2ec38604c6
-onetag.com, 61d88450bdb25bc, DIRECT
-advertising.com, 28246, RESELLER
-video.unrulymedia.com, 2745492395, DIRECT
-rhythmone.com, 2745492395, DIRECT, a670c89d4a324e47
 
 #agencyorquidea
 agencyorquidea.com, 1572, DIRECT
